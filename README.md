@@ -4,6 +4,8 @@ Game Design Document Markdown Template
 This is meant to be used in GitHub wiki.
 This template is based on the template by [Artjom Kurapov](https://kurapov.ee/rus/lab/game_development/#f191).
 
+Please feel free to create pull requests with any additions you think should be made to this template.
+
 # Game Design Doc Table of Contents
 1. [Copyright Information](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/1.-Copyright-Information)
 2. [Version History](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/2.-Version-History)
@@ -20,6 +22,7 @@ This template is based on the template by [Artjom Kurapov](https://kurapov.ee/ru
         2. [Number of levels](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/3.-Game-Overview#number-of-levels)
         3. [Number of NPC’s](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/3.-Game-Overview#number-of-npcs)
         5. [Number of weapons](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/3.-Game-Overview#number-of-weapons)
+
 4. [Gameplay and Mechanics](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/4.-Gameplay-and-Mechanics)
 
     1. [Gameplay](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/4.-Gameplay-and-Mechanics#gameplay)
@@ -51,6 +54,7 @@ This template is based on the template by [Artjom Kurapov](https://kurapov.ee/ru
     4. [Game Options](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/4.-Gameplay-and-Mechanics#game-options)
     5. [Replaying and Saving](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/4.-Gameplay-and-Mechanics#replaying-and-saving)
     6. [Cheats and Easter Eggs](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/4.-Gameplay-and-Mechanics#cheats-and-easter-eggs)
+
 5. [Story, Setting and Character](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character)
     1. [Story and Narrative](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#story-and-narrative)
         1. [Back Story](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#back-story)
@@ -82,39 +86,41 @@ This template is based on the template by [Artjom Kurapov](https://kurapov.ee/ru
             6. [Relationship to Other Characters](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#relationship-to-other-characters)
             7. [Statistics](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#statistics)
 
-Levels	10
-    Level #1	10
-        Synopsis	10
-        Introductory Material (Cut scene?  Mission briefing?)	10
-        Objectives	10
-        Physical Description	10
-        Map	10
-        Critical Path	10
-        Encounters	10
-        Level Walkthrough	10
-        Closing Material	10
+6. [Levels](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/6.-Levels)
+    1. [Level #1](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/6.-Levels#level-1)
+        1. [Synopsis](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/6.-Levels#synopsis)
+        2. [Introductory Material](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/6.-Levels#introductory-material)
+        3. [Objectives](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/6.-Levels#objectives)
+        4. [Physical Description](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/6.-Levels#physical-description)
+        5. [Map](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/6.-Levels#map)
+        6. [Critical Path](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/6.-Levels#critical-path)
+        7. [Encounters](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/6.-Levels#encounters)
+        8. [Level Walkthrough](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/6.-Levels#level-walkthrough)
+        9. [Closing Material](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/6.-Levels#closing-material)
 
-Interface	10
-    Visual System	10
-    HUD - What controls	10
-    Menus	10
-    Rendering System	10
-    Camera	10
-    Lighting Models	10
-    Control System – How does the game player control the game?   What are the specific commands?	10
-    Audio	10
-    Music	10
-    Sound Effects	10
-    Help System	10
-    Artificial Intelligence	11
+7. [Interface](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/7.-Interface)
+    1. [Visual System](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/7.-Interface#visual-system)
+        1. [HUD](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/7.-Interface#hud)
+        2. [Menus](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/7.-Interface#menus)
+        3. [Rendering System](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/7.-Interface#rendering-system)
+        4. [Camera](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/7.-Interface#camera)
+        5. [Lighting Models](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/7.-Interface#lighting-models)
+    2. [Control System](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/7.-Interface#control-system)
+    3. [Audio](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/7.-Interface#audio)
+    4. [Music](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/7.-Interface#music)
+    5. [Sound Effects](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/7.-Interface#sound-effects)
+    6. [Help System](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/7.-Interface#help-system)
+
+Artificial Intelligence	11
     Opponent AI – The active opponent that plays against the game player and therefore requires strategic decision making (example, Civilization or Chess, how is it to be designed?	11
     Enemy AI – Villains and Monsters	11
     Non-combat Characters	11
     Friendly Characters	11
     Support AI	11
-    Player and Collision Detection	11
-    Pathfinding	11
-    Technical – This may be abbreviated with most in the Technical Bible.	11
+        Player and Collision Detection	11
+        Pathfinding	11
+
+Technical – This may be abbreviated with most in the Technical Bible.	11
     Target Hardware	11
     Development hardware and software	11
     Development procedures and standards	11
@@ -122,7 +128,8 @@ Interface	10
     Network	11
     Scripting Language	11
     etc.	11
-    Game Art - This may be abbreviated with most of the content in an Art Bible.	11
+
+Game Art - This may be abbreviated with most of the content in an Art Bible.	11
     Concept Art	11
     Style Guides	11
     Characters	11
@@ -130,19 +137,22 @@ Interface	10
     Equipment	12
     Cut scenes	12
     Miscellaneous	12
-    Secondary Software	12
+
+Secondary Software	12
     Editor	12
     Installer	12
     Update software	12
-    Management	12
+
+Management	12
     Detailed Schedule	12
     Budget	12
     Risk Analysis	12
     Localization Plan	12
     Test Plan	12
-    Appendices	12
+
+Appendices	12
     Asset List	12
-    Art	12
-    Sound	12
-    Music	13
-    Voice	13
+        Art	12
+        Sound	12
+        Music	13
+        Voice	13

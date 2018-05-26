@@ -10,6 +10,7 @@
     4. [Target Audience](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/3.-Game-Overview#target-audience)
     5. [Game Flow](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/3.-Game-Overview#game-flow)
     6. [Look and Feel](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/3.-Game-Overview#look-and-feel)
+
 4. [Gameplay and Mechanics](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/4.-Gameplay-and-Mechanics)
 
     1. [Gameplay](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/4.-Gameplay-and-Mechanics#gameplay)
@@ -31,6 +32,7 @@
     4. [Game Options](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/4.-Gameplay-and-Mechanics#game-options)
     5. [Replaying and Saving](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/4.-Gameplay-and-Mechanics#replaying-and-saving)
     6. [Cheats and Easter Eggs](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/4.-Gameplay-and-Mechanics#cheats-and-easter-eggs)
+
 5. [Story, Setting and Character](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character)
     1. [Story and Narrative](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#story-and-narrative)
         1. [Back Story](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#back-story)
@@ -44,3 +46,19 @@
         2. [Area #1](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#area-1)
     3. [Characters](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#characters)
         1. [Character #1](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#character-1)
+
+6. [Levels](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/6.-Levels)
+    1. [Level #1](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/6.-Levels#level-1)
+
+7. [Interface](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/7.-Interface)
+    1. [Visual System](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/7.-Interface#visual-system)
+        1. [HUD](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/7.-Interface#hud)
+        2. [Menus](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/7.-Interface#menus)
+        3. [Rendering System](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/7.-Interface#rendering-system)
+        4. [Camera](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/7.-Interface#camera)
+        5. [Lighting Models](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/7.-Interface#lighting-models)
+    2. [Control System](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/7.-Interface#control-system)
+    3. [Audio](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/7.-Interface#audio)
+    4. [Music](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/7.-Interface#music)
+    5. [Sound Effects](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/7.-Interface#sound-effects)
+    6. [Help System](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/7.-Interface#help-system)
