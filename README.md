@@ -51,30 +51,50 @@ This template is based on the template by [Artjom Kurapov](https://kurapov.ee/ru
     4. [Game Options](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/4.-Gameplay-and-Mechanics#game-options)
     5. [Replaying and Saving](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/4.-Gameplay-and-Mechanics#replaying-and-saving)
     6. [Cheats and Easter Eggs](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/4.-Gameplay-and-Mechanics#cheats-and-easter-eggs)
-5. [Story, Setting and Character]()
-    Story and Narrative - Specific details like scripts and cut scenes may not be in this document but be in the Story Bible.	8
-    Back story	8
-    Plot Elements	8
-    Game Progression	8
-    License Considerations	8
-    Cut Scenes	8
-    Game World	8
-    General look and feel of world	8
-    Area #1	8
-    Characters	9
-    Character #1	9
-    Levels	10
+5. [Story, Setting and Character](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character)
+    1. [Story and Narrative](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#story-and-narrative)
+        1. [Back Story](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#back-story)
+        2. [Plot Elements](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#plot-elements)
+        3. [Game Progression](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#game-progression)
+        4. [License Considerations](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#license-considerations)
+        5. [Cut Scenes](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#license-considerations)
+            1. [Cut Scene #1](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#cut-scene-1)
+                1. [Actors](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#actors)
+                2. [Descriptions](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#descriptions)
+                3. [Storyboard](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#storyboard)
+                4. [Script](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#script)
+    2. [Game World](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#game-world)
+        1. [General look and feel of world](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#general-look-and-feel-of-world)
+        2. [Area #1](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#area-1)
+            1. [General Description](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#general-description)
+            2. [Physical Characteristics](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#physical-characteristics)
+            3. [Levels that use area](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#levels-that-use-area)
+            4. [Connections to other areas](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#connections-to-other-areas)
+    3. [Characters](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#characters)
+        1. [Character #1](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#character-1)
+            1. [Back Story](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#back-story-1)
+            2. [Personality](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#personality)
+            3. [Look](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#personality)
+                1. [Physical Characteristics](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#physical-characteristics-1)
+                2. [Animations](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#animations)
+            4. [Special Abilities](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#special-abilities)
+            5. [Relevance to Game Story](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#relevance-to-game-story)
+            6. [Relationship to Other Characters](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#relationship-to-other-characters)
+            7. [Statistics](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/5.-Story,-Setting-and-Character#statistics)
+
+Levels	10
     Level #1	10
-    Synopsis	10
-    Introductory Material (Cut scene?  Mission briefing?)	10
-    Objectives	10
-    Physical Description	10
-    Map	10
-    Critical Path	10
-    Encounters	10
-    Level Walkthrough	10
-    Closing Material	10
-    Interface	10
+        Synopsis	10
+        Introductory Material (Cut scene?  Mission briefing?)	10
+        Objectives	10
+        Physical Description	10
+        Map	10
+        Critical Path	10
+        Encounters	10
+        Level Walkthrough	10
+        Closing Material	10
+
+Interface	10
     Visual System	10
     HUD - What controls	10
     Menus	10
