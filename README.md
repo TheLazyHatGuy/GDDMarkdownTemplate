@@ -111,32 +111,31 @@ Please feel free to create pull requests with any additions you think should be 
     5. [Sound Effects](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/7.-Interface#sound-effects)
     6. [Help System](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/7.-Interface#help-system)
 
-Artificial Intelligence	11
-    Opponent AI – The active opponent that plays against the game player and therefore requires strategic decision making (example, Civilization or Chess, how is it to be designed?	11
-    Enemy AI – Villains and Monsters	11
-    Non-combat Characters	11
-    Friendly Characters	11
-    Support AI	11
-        Player and Collision Detection	11
-        Pathfinding	11
+8. [Artificial Intelligence](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/8.-Artificial-Intelligence)
+    1. [Opponent AI](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/8.-Artificial-Intelligence#opponent-ai)
+    2. [Enemy AI](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/8.-Artificial-Intelligence#enemy-ai)
+    3. [Non-combat Characters](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/8.-Artificial-Intelligence#non-combat-characters)
+    4. [Friendly Characters](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/8.-Artificial-Intelligence#friendly-characters)
+    5. [Support AI](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/8.-Artificial-Intelligence#support-ai)
+        1. [Player and Collision Detection](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/8.-Artificial-Intelligence#player-and-collision-detection)
+        2. [Pathfinding](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/8.-Artificial-Intelligence#pathfinding)
 
-Technical – This may be abbreviated with most in the Technical Bible.	11
-    Target Hardware	11
-    Development hardware and software	11
-    Development procedures and standards	11
-    Game Engine	11
-    Network	11
-    Scripting Language	11
-    etc.	11
+9. [Technical](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/9.-Technical)
+    1. [Target Hardware](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/9.-Technical#target-hardware)
+    2. [Development Hardware and Software](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/9.-Technical#development-hardware-and-software)
+    3. [Development Procedures and Standards](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/9.-Technical#development-procedures-and-standards)
+    4. [Game Engine](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/9.-Technical#game-engine)
+    5. [Network](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/9.-Technical#network)
+    6. [Scripting Language](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/9.-Technical#scripting-language)
 
-Game Art - This may be abbreviated with most of the content in an Art Bible.	11
-    Concept Art	11
-    Style Guides	11
-    Characters	11
-    Environments	12
-    Equipment	12
-    Cut scenes	12
-    Miscellaneous	12
+10. [Game Art](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/10.-Game-Art)
+    1. [Concept Art](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/10.-Game-Art#concept-art)
+    2. [Style Guides](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/10.-Game-Art#style-guides)
+    3. [Characters](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/10.-Game-Art#characters)
+    4. [Environments](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/10.-Game-Art#environments)
+    5. [Equipment](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/10.-Game-Art#equipment)
+    6. [Cut scenes](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/10.-Game-Art#cut-scenes)
+    7. [Miscellaneous](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/10.-Game-Art#miscellaneous)
 
 Secondary Software	12
     Editor	12
@@ -153,6 +152,9 @@ Management	12
 Appendices	12
     Asset List	12
         Art	12
+
         Sound	12
+
         Music	13
+
         Voice	13
