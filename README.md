@@ -2,7 +2,9 @@
 Game Design Document Markdown Template
 
 This is meant to be used in GitHub wiki.
+
 This template is based on the template by [Artjom Kurapov](https://kurapov.ee/rus/lab/game_development/#f191).
+
 
 Please feel free to create pull requests with any additions you think should be made to this template.
 
@@ -137,24 +139,34 @@ Please feel free to create pull requests with any additions you think should be 
     6. [Cut scenes](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/10.-Game-Art#cut-scenes)
     7. [Miscellaneous](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/10.-Game-Art#miscellaneous)
 
-Secondary Software	12
-    Editor	12
-    Installer	12
-    Update software	12
+11. [Secondary Software](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/11.-Secondary-Software)
+    1. [Editor](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/11.-Secondary-Software#editor)
+    2. [Installer](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/11.-Secondary-Software#installer)
+    3. [Update Software](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/11.-Secondary-Software#update-software)
 
-Management	12
-    Detailed Schedule	12
-    Budget	12
-    Risk Analysis	12
-    Localization Plan	12
-    Test Plan	12
+12. [Management](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/12.-Management)
+    1. [Detailed Schedule](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/12.-Management#detailed-schedule)
+    2. [Budget](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/12.-Management#budget)
+    3. [Risk Analysis](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/12.-Management#risk-analysis)
+    4. [Localization Plan](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/12.-Management#localization-plan)
+    5. [Test Plan](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/12.-Management#localization-plan)
 
-Appendices	12
-    Asset List	12
-        Art	12
-
-        Sound	12
-
-        Music	13
-
-        Voice	13
+13. [Appendices](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/13.-Appendices)
+    1. [Asset List](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/13.-Appendices#asset-list)
+        1. [Art](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/13.-Appendices#art)
+            1. [Model and Texture List](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/13.-Appendices#model-and-texture-list)
+            2. [Animation List](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/13.-Appendices#animation-list)
+            3. [Effects List](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/13.-Appendices#effects-list)
+            4. [Interface Art List](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/13.-Appendices#interface-art-list)
+            5. [Cut Scene List](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/13.-Appendices#cut-scene-list)
+        2. [Sound](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/13.-Appendices#sound)
+            1. [Environmental Sounds](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/13.-Appendices#environmental-sounds)
+            2. [Weapon Sounds](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/13.-Appendices#weapon-sounds)
+            3. [Interface Sounds](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/13.-Appendices#interface-sounds)
+        3. [Music](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/13.-Appendices#music)
+            1. [Ambient](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/13.-Appendices#ambient)
+            2. [Action](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/13.-Appendices#action)
+            3. [Victory](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/13.-Appendices#victory)
+            4. [Defeat](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/13.-Appendices#defeat)
+        4. [Voice](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/13.-Appendices#voice)
+            1. [Actor #1 Lines](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/13.-Appendices#actor-1-lines)

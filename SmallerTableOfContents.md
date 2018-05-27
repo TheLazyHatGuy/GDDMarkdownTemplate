@@ -88,3 +88,22 @@
     5. [Equipment](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/10.-Game-Art#equipment)
     6. [Cut scenes](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/10.-Game-Art#cut-scenes)
     7. [Miscellaneous](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/10.-Game-Art#miscellaneous)
+
+11. [Secondary Software](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/11.-Secondary-Software)
+    1. [Editor](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/11.-Secondary-Software#editor)
+    2. [Installer](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/11.-Secondary-Software#installer)
+    3. [Update Software](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/11.-Secondary-Software#update-software)
+
+12. [Management](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/12.-Management)
+    1. [Detailed Schedule](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/12.-Management#detailed-schedule)
+    2. [Budget](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/12.-Management#budget)
+    3. [Risk Analysis](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/12.-Management#risk-analysis)
+    4. [Localization Plan](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/12.-Management#localization-plan)
+    5. [Test Plan](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/12.-Management#localization-plan)
+
+13. [Appendices](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/13.-Appendices)
+    1. [Asset List](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/13.-Appendices#asset-list)
+        1. [Art](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/13.-Appendices#art)
+        2. [Sound](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/13.-Appendices#sound)
+        3. [Music](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/13.-Appendices#music)
+        4. [Voice](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/13.-Appendices#voice)
