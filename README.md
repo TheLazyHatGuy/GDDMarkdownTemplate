@@ -1,4 +1,6 @@
 # GDDMarkdownTemplate
+[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
+
 Game Design Document Markdown Template
 
 This is meant to be used in GitHub wiki.
