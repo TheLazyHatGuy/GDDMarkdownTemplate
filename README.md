@@ -1,15 +1,3 @@
-# GDDMarkdownTemplate
-[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
-
-Game Design Document Markdown Template
-
-This is meant to be used in GitHub wiki.
-
-This template is based on the template by [Artjom Kurapov](https://kurapov.ee/rus/lab/game_development/#f191).
-
-
-Please feel free to create pull requests with any additions you think should be made to this template.
-
 # Game Design Doc Table of Contents
 1. [Copyright Information](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/1.-Copyright-Information)
 2. [Version History](https://github.com/TheLazyHatGuy/GDDMarkdownTemplate/wiki/2.-Version-History)
